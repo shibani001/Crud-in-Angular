@@ -1,0 +1,140 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Shibani",
+      "lastName": "das",
+      "email": "shibani@gmail.com",
+      "mobile": "6371020458",
+      "weight": 55,
+      "height": 1.6,
+      "bmi": 0.39062499999999994,
+      "bmiResult": "Underweight",
+      "gender": "Female",
+      "requireTrainers": "Yes",
+      "packages": "Monthly",
+      "important": [
+        "Toxic Fat Reduction"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-03-29T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "Vishal",
+      "lastName": "Gaurav",
+      "email": "vishal@mail.com",
+      "mobile": "9102449966",
+      "weight": 25,
+      "height": 34,
+      "bmi": 0.02162629757785467,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainers": "Yes",
+      "packages": "Quarterly",
+      "important": [
+        "Toxic Fat Reduction",
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Healthier digestive Sysytem"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-04-13T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "Candace",
+      "lastName": "Anthony",
+      "email": "tubepu@mailinator.com",
+      "mobile": "6786765123",
+      "weight": 75,
+      "height": 1.7,
+      "bmi": 25.95155709342561,
+      "bmiResult": "Overweight",
+      "gender": "Female",
+      "requireTrainers": "No",
+      "packages": "Yearly",
+      "important": [
+        "Sugar Craving Body",
+        "Fitness"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-05-09T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "Jayme",
+      "lastName": "Ashley",
+      "email": "semiqako@mailinator.com",
+      "mobile": "7675765612",
+      "weight": 57,
+      "height": 23,
+      "bmi": 0.10775047258979206,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainers": "No",
+      "packages": "Quarterly",
+      "important": [
+        "Healthier digestive Sysytem"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "1986-04-25T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "firstName": "Zena",
+      "lastName": "Vasquez",
+      "email": "vaficon@mailinator.com",
+      "mobile": "765764545",
+      "weight": 11,
+      "height": 45,
+      "bmi": 0.005432098765432099,
+      "bmiResult": "Underweight",
+      "gender": "Female",
+      "requireTrainers": "Yes",
+      "packages": "Monthly",
+      "important": [
+        "Toxic Fat Reduction"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2020-01-26T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "firstName": "Reece",
+      "lastName": "Pickett",
+      "email": "lilaze@mailinator.com",
+      "mobile": "98998798",
+      "weight": 95,
+      "height": 3.4,
+      "bmi": 8.217993079584776,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainers": "Yes",
+      "packages": "Yearly",
+      "important": [
+        "Building Lean Muscle",
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "1970-01-17T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "firstName": "Brynn",
+      "lastName": "Randall",
+      "email": "hocumob@mailinator.com",
+      "mobile": "6565765657",
+      "weight": 38,
+      "height": 1.4,
+      "bmi": 19.38775510204082,
+      "bmiResult": "Normal",
+      "gender": "Female",
+      "requireTrainers": "No",
+      "packages": "Quarterly",
+      "important": "",
+      "haveGymBefore": "No",
+      "enquiryDate": "2016-03-01T18:30:00.000Z",
+      "id": 7
+    }
+  ]
+}
